@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supreme-coder929&label=Profile%20views&color=0e75b6&style=flat" alt="supreme-coder929" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supreme-coder929" alt="supreme-coder929" /></a> </p>
 
 - 🔭 I’m currently working on **Mist | Exploitation Framework**
 
