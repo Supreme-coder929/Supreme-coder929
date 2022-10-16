@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Diar Aliu</h1>
 <h3 align="center">Python Programmer | Hacker In Training</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supreme-coder929&label=Profile%20views&color=0e75b6&style=flat" alt="supreme-coder929" /> </p>
-
-
 - 🔭 I’m currently working on **Mist | Exploitation Framework**
 
 - 🌱 I’m currently learning **Cybersecurity, Python3**
+
+- 🤝 I’m looking for help with **a mentor in Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Supreme-coder929](https://github.com/Supreme-coder929)
 
 - 📫 How to reach me **diaralb@outlook.com**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supreme-coder929&show_icons=true&locale=en" alt="supreme-coder929" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supreme-coder929&" alt="supreme-coder929" /></p>
+
