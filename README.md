@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity, Python3**
 
-- 🤝 I’m looking for help with **a mentor in Cybersecurity**
+- 🤝 I’m looking for help with *Red Teaming Training**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Supreme-coder929](https://github.com/Supreme-coder929)
 
