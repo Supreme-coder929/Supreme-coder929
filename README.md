@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 <h3 align="center">Python Programmer | Hacker In Training</h3>
 
-- 🔭 I’m currently working on **hash cracker**
+- 🔭 I’m currently working on **OSINT Workshop With Auth Key Authentication**
 
 - 🌱 I’m currently learning **Cybersecurity, Python3**
 
