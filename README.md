@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Supreme-coder929](https://github.com/Supreme-coder929)
 
-- 📫 How to reach me **diaralb@outlook.com**
+- 📫 How to reach me **diaralb@outlook.com** | You can also add me on discord --> diaralb#3487
 
 <p align="left">
 </p>
