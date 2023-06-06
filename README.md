@@ -1,10 +1,6 @@
 <h1 align="center"></h1>
 <h3 align="center">Python Programmer | Hacker In Training</h3>
 
-- 🔭 I’m currently working on **OSINT Workshop With Auth Key Security**
-
-- 🌱 I’m currently learning **Cybersecurity, Python3**
-
 - 🤝 I’m looking for help with *Red Team Training*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Supreme-coder929](https://github.com/Supreme-coder929)
