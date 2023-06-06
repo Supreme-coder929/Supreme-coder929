@@ -1,5 +1,5 @@
 <h1 align="center"></h1>
-<h3 align="center">Python Programmer | Hacker In Training</h3>
+<h3 align="center">Programmer | Hacker In Training</h3>
 
 - 🤝 I’m looking for help with *Red Team Training*
 
